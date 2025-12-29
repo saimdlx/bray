@@ -1,0 +1,9 @@
+discord.py
+langchain
+langchain-community
+langgraph
+langchain-google-genai
+playwright
+beautifulsoup4
+python-dotenv
+duckduckgo-search
